@@ -10,3 +10,7 @@ pokemon API を利用したポケモン図鑑
 
 # preview
 `npm start`
+
+
+https://user-images.githubusercontent.com/65272471/191919369-80dd9418-3283-4af1-832e-faa72c564049.mp4
+
